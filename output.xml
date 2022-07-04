@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20220630 16:09:30.238" rpa="false" schemaversion="3">
+<suite id="s1" name="TEST1" source="C:\Users\2118507\PycharmProjects\Robot1\Testcases\TEST1.robot">
+<test id="s1-t1" name="begin web test" line="11">
+<status status="FAIL" starttime="20220630 16:09:33.371" endtime="20220630 16:09:33.372">Test contains no keywords.</status>
+</test>
+<test id="s1-t2" name="Begin web test1" line="12">
+<status status="FAIL" starttime="20220630 16:09:33.373" endtime="20220630 16:09:33.374">Test contains no keywords.</status>
+</test>
+<doc>Testing</doc>
+<status status="FAIL" starttime="20220630 16:09:30.248" endtime="20220630 16:09:33.375"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="2" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="2" skip="0" id="s1" name="TEST1">TEST1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
